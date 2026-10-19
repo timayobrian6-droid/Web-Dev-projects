@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "justMyCode": true,
+      "name": "New Configuration",
+      "type": "debugpy",
+      "request": "launch",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "env": {},
+      "console": "integratedTerminal",
+      "charmrunManaged": true,
+      "charmrunId": "251cff47-fed7-4df3-b56e-b776ddc5daf4",
+      "charmrunRunMode": "run",
+      "program": ""
+    }
+  ]
+}
